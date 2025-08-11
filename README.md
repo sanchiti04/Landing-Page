@@ -14,6 +14,8 @@ A responsive and visually appealing landing page built with HTML, CSS, JavaScrip
 - Tailwind CSS
 
 #Screenshots
+<img width="1881" height="1014" alt="image" src="https://github.com/user-attachments/assets/c2d0b1a0-dee1-4692-82fe-21c95963cc53" />
+
 
 
 
