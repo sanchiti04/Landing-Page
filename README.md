@@ -1,4 +1,4 @@
-# Modern Landing Page
+# Modern Course Page
 
 A responsive and visually appealing landing page built with HTML, CSS, JavaScript, and Tailwind CSS.
 
@@ -17,6 +17,7 @@ A responsive and visually appealing landing page built with HTML, CSS, JavaScrip
 <img width="1881" height="1014" alt="image" src="https://github.com/user-attachments/assets/c2d0b1a0-dee1-4692-82fe-21c95963cc53" />
 
 <img width="1863" height="999" alt="image" src="https://github.com/user-attachments/assets/4ead9f89-7dd8-4df7-b722-dcb5d467e940" />
+
 
 
 
